@@ -1,7 +1,8 @@
 <h1>Hi 👋</h1>
 <p></p>
 
-
+<script type="text/javascript" src="https://piotrl.github.io/github-profile-card/dist/gh-profile-card.min.js"></script>
+<div id="github-card" data-username="user960507"></div>
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
